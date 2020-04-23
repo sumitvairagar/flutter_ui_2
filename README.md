@@ -1,5 +1,8 @@
-# Apps From Scratch | Flutter Travel UI Starter Repo
+# Collection of User interface using Flutter
 
-Clone this repo and follow my YouTube video: [Flutter Travel UI Tutorial | Apps From Scratch](https://youtu.be/CSa6Ocyog4U)
+# Screenshots
+<img src="screenshots/1.png" width="40%">
 
-[Complete Travel UI](https://github.com/MarcusNg/flutter_travel_ui)
+<img src="screenshots/2.png" width="40%">
+
+<img src="screenshots/3.png" width="40%">
